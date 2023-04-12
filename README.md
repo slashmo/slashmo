@@ -5,7 +5,7 @@ I'm a software engineer emphasizing **automated testing** and writing **APIs tha
 ## Swift Distributed Tracing 🔭
 
 In 2020 I enjoyed participating in [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2020/projects/6305735463403520/
-), working on a new set of libraries to trace distributed systems written in Swift. Since then, I open-sourced many related libraries such as [slashmo/opentelemetry-swift](https://github.com/slashmo/opentelemetry-swift) and [slashmo/jaeger-client-swift](https://github.com/slashmo/jaeger-client-swift).
+), working on a new set of libraries to trace distributed systems written in Swift. Since then, I open-sourced many related libraries such as [slashmo/swift-otel](https://github.com/slashmo/swift-otel) and [slashmo/jaeger-client-swift](https://github.com/slashmo/jaeger-client-swift).
 
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing)
 - [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage)
